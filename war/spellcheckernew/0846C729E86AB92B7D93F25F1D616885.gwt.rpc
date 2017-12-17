@@ -1,0 +1,19 @@
+@FinalFields, false
+com.example.SpellCheckerNew.client.GreetingService, false, false, false, false, _, 1696880881
+com.example.SpellCheckerNew.shared.EmptyFormatException, true, true, false, false, com.example.SpellCheckerNew.shared.EmptyFormatException/3862482320, 3862482320
+com.example.SpellCheckerNew.shared.UnknownWordsException, true, true, false, false, com.example.SpellCheckerNew.shared.UnknownWordsException/2587095925, 2587095925
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true, true, true, true, com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException/3936916533, 3936916533
+com.google.gwt.user.client.rpc.RpcTokenException, true, true, false, false, com.google.gwt.user.client.rpc.RpcTokenException/2345075298, 2345075298
+com.google.gwt.user.client.rpc.XsrfToken, false, false, true, true, com.google.gwt.user.client.rpc.XsrfToken/4254043109, 4254043109
+java.io.IOException, true, true, false, false, java.io.IOException/1159940531, 1159940531
+java.io.UnsupportedEncodingException, true, true, false, false, java.io.UnsupportedEncodingException/1526756933, 1526756933
+java.lang.Exception, true, false, true, false, java.lang.Exception/1920171873, 1920171873
+java.lang.IllegalArgumentException, true, true, false, false, java.lang.IllegalArgumentException/1755012560, 1755012560
+java.lang.NumberFormatException, true, true, false, false, java.lang.NumberFormatException/3305228476, 3305228476
+java.lang.RuntimeException, true, false, true, false, java.lang.RuntimeException/515124647, 515124647
+java.lang.String, true, true, true, true, java.lang.String/2004016611, 2004016611
+java.lang.Throwable, true, false, true, false, java.lang.Throwable/2953622131, 2953622131
+java.util.HashMap, true, true, false, false, java.util.HashMap/1797211028, 1797211028
+java.util.HashSet, true, true, false, false, java.util.HashSet/3273092938, 3273092938
+java.util.LinkedHashMap, true, true, false, false, java.util.LinkedHashMap/3008245022, 3008245022
+java.util.LinkedHashSet, true, true, false, false, java.util.LinkedHashSet/95640124, 95640124

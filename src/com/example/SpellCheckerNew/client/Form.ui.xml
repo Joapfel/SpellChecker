@@ -1,0 +1,49 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+	<ui:style>
+	.important {
+		font-weight: bold;
+	}
+	</ui:style>
+	<g:HTMLPanel>
+		<header>&nbsp;</header>
+
+		<main>
+		    <div id="innerFrame">
+			<div id="toprule">&nbsp;</div>
+			<div id="main_header">
+					<div class="form_title">MakeYourTeacherHappy!</div>
+					<div class="form_subtitle">DotCom</div>
+					<div class="form_title_desc">This is a Spell Checker</div>
+			</div>
+
+			<section>
+				<div class="section_head">
+					<b></b>
+				</div>
+				<g:RichTextArea ui:field="text"/>
+			</section>
+
+			<section>
+				<g:Button ui:field="check">Check</g:Button>
+				<g:Button ui:field="reset">Reset</g:Button>
+				<g:Button ui:field="readme">ReadMe</g:Button>
+			</section>
+			
+			<section>
+			    <g:FlowPanel ui:field="correctionField">
+			    <!-- add list boxes in the java code -->
+			    </g:FlowPanel>
+			    
+			</section>
+			<section>
+			    <g:FlowPanel ui:field="applyField">
+			        <!-- add apply button in java code -->
+			    </g:FlowPanel>
+			</section>
+			</div>
+		</main>
+
+	</g:HTMLPanel>
+	</ui:UiBinder>
